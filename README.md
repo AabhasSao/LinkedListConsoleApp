@@ -6,8 +6,8 @@ Enter help for list of commands
 ##
 List of commands
 ###
-add : to add an integer to the linked list
-all : print all integers in the linked list
+add : to add an integer to the linked list/
+all : print all integers in the linked list/
 delete : delete node at given index
 pop : deletes the last node
 reverse : figure it out yourself seems obvious to me
