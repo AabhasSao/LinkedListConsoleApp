@@ -1,6 +1,7 @@
 # LinkedListConsoleApp
 Interactable console app performing some operations on a linked list
-#h1
+
+#
 Enter help for list of commands
 
 ###
