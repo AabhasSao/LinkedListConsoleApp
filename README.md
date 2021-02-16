@@ -8,6 +8,6 @@ Interactable console app performing some operations on a linked list
 * all  print all integers in the linked list
 * delete  delete node at given index
 * pop  deletes the last node
-* reverse  figure it out yourself seems obvious to me
-* size size of the linked list\n\n";
+* reverse  reverses the linked list
+* size size of the linked list
 * insert  add an element at given index
