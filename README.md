@@ -1,6 +1,6 @@
 # LinkedListConsoleApp
-Interactable console app performing some operations on a linked list
-
+#### Interactable console app performing some operations on a linked list
+#### try g++ compiler if gcc fails
 # Enter help for list of commands
 
 ## 1. List of commands
